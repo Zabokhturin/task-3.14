@@ -1,4 +1,4 @@
-# Инстсрукция по работе с GIT
+# Инструкция по работе с GIT
 
 LICENCE: [MIT](./licence.md)
 
@@ -6,11 +6,14 @@ LICENCE: [MIT](./licence.md)
 ---
 
 ### Содержание:
+#### Основные команды:
+1. [Регистрация](registration.md)
+2. [git config](config.md)
+3. [git init](init.md)
+4. [git add](add.md)
+5. [git commit](commit.md)
+#### Работа с удалённым репозиторием:
 1. 
-2. [ git add](add.md)
-
-
 ---
-
 GIT logo by Jonson Long - http://git-scm.com/downloads/logos,
-license6: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) 
+licenses: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) 
