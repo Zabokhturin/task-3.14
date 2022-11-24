@@ -6,12 +6,12 @@ LICENCE: [MIT](./licence.md)
 ---
 
 ### Содержание:
+[Регистрация](registration.md)
 #### Основные команды:
-1. [Регистрация](registration.md)
-2. [git config](config.md)
-3. [git init](init.md)
-4. [git add](add.md)
-5. [git commit](commit.md)
+1. [git config](config.md)
+2. [git init](init.md)
+3. [git add](add.md)
+4. [git commit](commit.md)
 #### Работа с удалённым репозиторием:
 1. [git remote add](remoteadd.md)
 2. [git fetch](fetch.md)
